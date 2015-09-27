@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bordsplacering</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Search</string>
+    <string name="namestring">, you are seated at</string>
+    <string name="edittext">Name</string>
+</resources>
