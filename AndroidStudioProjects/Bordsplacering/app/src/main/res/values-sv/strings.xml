@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bordsplacering</string>
+    <string name="button">Sök</string>
+    <string name="namestring">, du sitter på plats </string>
+    <string name="edittext">Namn</string>
+</resources>
