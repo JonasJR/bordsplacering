@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">P2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="add_group_button">Add Group</string>
+    <string name="info_text">Click a group to join it, or type a name of a group to create it</string>
+    <string name="open_map_button">Open Map</string>
+    <string name="name">Name</string>
+    <string name="must_enter_name">You must enter a name for the group!</string>
+</resources>
